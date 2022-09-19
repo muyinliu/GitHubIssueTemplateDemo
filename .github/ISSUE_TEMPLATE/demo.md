@@ -2,7 +2,7 @@
 name: demo
 about: demo template
 title: ''
-labels: ''
+labels: 'label1'
 assignees: ''
 
 ---
