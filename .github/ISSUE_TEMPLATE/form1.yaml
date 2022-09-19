@@ -7,7 +7,7 @@ body:
     id: txhash
     attributes:
       label: Transaction Hash
-      placeholder: "e.g. 0x9369a389f32dabf118a3c24f166014ed9f9f0d6682421dfb9e05034459a323ed"
+      placeholder: "e.g. 0x1922810ecbce882ae37ac41768b40e03589dc07225b30d7208dcbb1f96799eb5"
     validations:
       required: true
   - type: textarea
@@ -15,6 +15,6 @@ body:
     attributes:
       label: Description
       placeholder: Tell us why this transaction is Awesome!
-      value: "This transaction earn $100,000"
+      value: "https://tx.eigenphi.io/analyseTransaction%3Ftx=0x1922810ecbce882ae37ac41768b40e03589dc07225b30d7208dcbb1f96799eb5"
     validations:
       required: true
