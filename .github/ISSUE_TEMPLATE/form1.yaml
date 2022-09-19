@@ -1,13 +1,13 @@
 name: AwesomeTx
 description: This transaction is awesome, I have to tell everyone!
-title: ""
+title: "AwesomeTx"
 labels: ["AwesomeTx"]
 body:
   - type: input
     id: txhash
     attributes:
       label: Transaction Hash
-      description: ""
+      description: "Hash of the transaction"
       placeholder: "e.g. 0x9369a389f32dabf118a3c24f166014ed9f9f0d6682421dfb9e05034459a323ed"
     validations:
       required: true
@@ -16,6 +16,6 @@ body:
     attributes:
       label: Description
       placeholder: Tell us why this transaction is Awesome!
-      value: ""
+      value: "This transaction earn $100,000"
     validations:
       required: true
