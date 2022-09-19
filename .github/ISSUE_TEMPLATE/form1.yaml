@@ -1,5 +1,5 @@
 name: AwesomeTx
-placeholder: "Title, e.g. JIT in Uniswap v3"
+title: "sample: JIT in Uniswap v3"
 labels: ["AwesomeTx"]
 body:
   - type: input
