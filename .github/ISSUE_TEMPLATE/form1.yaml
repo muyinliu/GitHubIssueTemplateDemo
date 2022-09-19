@@ -1,6 +1,5 @@
 name: AwesomeTx
-description: This transaction is awesome, I have to tell everyone!
-title: "e.g. JIT in Uniswap v3"
+placeholder: "Title, e.g. JIT in Uniswap v3"
 labels: ["AwesomeTx"]
 body:
   - type: input
